@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(160, 214, 214);
+}
+
+body {
+    font-family: monospace;
+}
+
+.pengenalan {
+    color: rgb(236, 254, 255);
+    font-size:large;
+}
+
+.pengenalan h2{
+    color: black;
+    background-color: white;
+}
+
+.biodata {
+    color: blue;
+    font-size: smaller;
+}
+
+section form #submit {
+    color: red;
+}
